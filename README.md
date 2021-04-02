@@ -4,7 +4,7 @@ This is my first working project following the Odin Project foundations course.
 
 The aim was to recreate a version of the Google homepage using HTML and CSS. 
 
-I had followed some tutorials in the past but they never really stuck but this is the only course I have found that gives a decent explanation of how things work. It also allowed me allowed me to follow my intuition and become more confident in researching when I am stuck.   
+I had followed some tutorials in the past but they never really stuck. This is the only course I have found that gives a decent explanation of how things work. It also allowed me allowed me to follow my intuition and become more confident in researching when I am stuck.   
 
 I am proud of this page, imperfections and all. 
 
