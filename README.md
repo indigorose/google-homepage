@@ -14,7 +14,7 @@ If I was to start again, I would step away from the code editor and chrome conso
 
 This page may change over time as I learn and use this page a testing site for my ideas.
 
-Now on Javascript fundamentals and Rock Paper Scissors. :)
+Now onto Javascript fundamentals and Rock Paper Scissors. :)
 
 Thanks,
 Indigorose
