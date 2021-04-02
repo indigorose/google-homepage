@@ -116,7 +116,7 @@
             transform: translate(-50%, -50%);
             font-size: 16px;
         }
-
+        
         .searchbar:focus-within i {
             display: none;
         }
