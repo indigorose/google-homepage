@@ -12,9 +12,9 @@ In time, I will work on the media query differences and putting the voice search
 
 If I was to start again, I would step away from the code editor and chrome console and actually study the flow of the page, what does each section do, what is linked and why it must react this way for the user. 
 
-This page may change over time as I learn and use this page a testing site for my ideas.
+This page may change over time and I may add the additional challenge, as I learn and use this page a testing site for my ideas.
 
-Now onto Javascript fundamentals and Rock Paper Scissors. :)
+Now onto Javascript fundamentals and Rock Paper Scissors.
 
 Thanks,
 Indigorose
